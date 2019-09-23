@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394714688742",
+    "firebase_url": "https://fanalytics-c8189.firebaseio.com",
+    "project_id": "fanalytics-c8189",
+    "storage_bucket": "fanalytics-c8189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394714688742:android:2b3d80ec7fe400e0761f27",
+        "android_client_info": {
+          "package_name": "mashrabboy.technologies.fanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394714688742-ditpnvs4nkm7qpnfbeiqv5cnpp7ef241.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD38hyuxc_Rw9OQ5DmNYvkU8Mn4RKE0mCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394714688742-ditpnvs4nkm7qpnfbeiqv5cnpp7ef241.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
